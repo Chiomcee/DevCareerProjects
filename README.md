@@ -4,11 +4,11 @@
 
 Assignment A:
 
-Create a single HTML page (remember what makes a page):	
+Create a single HTML page (remember what makes a page):
 Your page should have:
 Your name
 A sentence about yourself
-Your goal for this diploma course 
+Your goal for this diploma course
 Your page should use the following tags:
 <b>
 <p>
